@@ -1,12 +1,12 @@
-<Primary_School_Student>
-<name>Andrew</name>
-<age>8</age>
-<grade>2</grade>
-<average_score>4.6</average_score>
-<attends_after_school_program>true</attends_after_school_program>
-<favourite_lessons>
-<favourite_lesson>English</favourite_lesson>
-<favourite_lesson>Math</favourite_lesson>
-</favourite_lessons>
-
-</Primary_School_Student>
+<student>
+ <type_of_school>Primary</type_of_school>
+ <name>Andrew</name>
+ <age>8</age>
+ <grade>2</grade>
+ <average_score>4.6</average_score>
+ <attends_after_school_program>true</attends_after_school_program>
+ <favourite_lessons>
+  <favourite_lesson>English</favourite_lesson>
+  <favourite_lesson>Math</favourite_lesson>
+ </favourite_lessons>
+</student>
